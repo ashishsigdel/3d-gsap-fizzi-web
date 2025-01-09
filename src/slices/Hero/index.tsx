@@ -9,6 +9,7 @@ import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { Bounded } from "@/components/Bounded";
 import Button from "@/components/Button";
 import { TextSplitter } from "@/components/TextSplitter";
+import { useEffect, useState } from "react";
 
 gsap.registerPlugin(useGSAP, ScrollTrigger);
 /**
