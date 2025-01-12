@@ -51,10 +51,7 @@
           "config": {
             "label": "Button Link",
             "placeholder": "",
-            "select": null,
-            "allowTargetBlank": true,
-            "allowText": true,
-            "repeat": false
+            "select": null
           }
         },
         "cans_image": {
@@ -80,7 +77,7 @@
             "label": "Second Body",
             "placeholder": "",
             "allowTargetBlank": true,
-            "single": "paragraph"
+            "multi": "paragraph,strong,em"
           }
         }
       },

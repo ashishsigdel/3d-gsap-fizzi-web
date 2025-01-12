@@ -1,5 +1,5 @@
 import React from "react";
-import { FizziLogo } from "@/components/FiziLogo";
+import { FizziLogo } from "@/components/FizziLogo";
 
 type Props = {};
 
